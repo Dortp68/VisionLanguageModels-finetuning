@@ -30,6 +30,7 @@ After training, the model can extract structured data from receipt images, such 
 ```
 ![](https://github.com/Dortp68/VisionLanguageModels-finetuning/blob/main/training.png)
 
+Finetuned model: https://huggingface.co/Dortp58/Llava-11B-finetuned
 ## Acknowledgments
 
 - [LLaVa](https://huggingface.co/docs/transformers/main/en/model_doc/llava) for the base model
